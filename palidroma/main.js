@@ -15,7 +15,9 @@ function isPalindrome(word){
     
     if(userWord === finalWord){
         alert("La parola è palindroma!");
-    }else{
+    }
+    
+    else{
         alert("La parola non è palindroma!");
     }
 
